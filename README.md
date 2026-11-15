@@ -8,7 +8,7 @@ Primera versión de la tienda online de ILUMINATE. Sitio estático responsive, p
 - Catálogo con filtros y buscador, sin inventar productos ni precios.
 - Sección de combos en preparación (sin ofertas ficticias).
 - Constructor de idea de kit personalizado con resumen local copiable; no es pedido ni cotización.
-- Navegación accesible, responsive, sin frameworks ni servidor.
+- Navegación accesible, responsive, sin frameworks ni servidor.\n- WhatsApp Business oficial (+57 313 272 2075) con botón flotante, sección de contacto y consulta de kits mediante mensaje prellenado. El enlace abre WhatsApp; no registra pedidos ni pagos.
 
 ## Publicar en Netlify
 1. En Netlify, seleccionar **Add new project → Import an existing project → GitHub**.
@@ -36,7 +36,7 @@ La interfaz muestra exclusivamente productos `available: true` con `priceCOP` nu
 
 ## Pendiente antes de vender
 - Confirmar productos, precios, inventario e imágenes.
-- Definir contacto oficial, políticas de entrega, devoluciones, tratamiento de datos y términos comerciales.
+- Definir políticas de entrega, devoluciones, tratamiento de datos y términos comerciales.\n- Revisar y mantener actualizado el WhatsApp Business oficial; las consultas se atienden fuera del sitio.
 - Seleccionar plataforma de pagos y desarrollar un checkout seguro; **esta versión no acepta pagos ni genera pedidos**.
 - Definir proceso operativo de combos y kits, y sus cotizaciones.
 - Probar flujos con datos reales antes de abrir al público.
